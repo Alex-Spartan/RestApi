@@ -1,0 +1,9 @@
+node_modules/
+
+nodemon.json/
+
+# SSH keys
+*.pub
+*.key
+id_rsa
+id_rsa.pub
